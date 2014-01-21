@@ -4,6 +4,7 @@ import pygame
 
 def main():
 	# i think this is wrong
+	# On second thought maybey it is! - Craig
 	print("You wish!")
 
 main()
